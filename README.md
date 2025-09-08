@@ -9,8 +9,6 @@
 
 [![Paper](https://img.shields.io/badge/Paper-TBA-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.04908)
 [![alphaXiv](https://img.shields.io/badge/alphaXiv-2507.15846-1f8ceb?style=for-the-badge)](https://www.alphaxiv.org/abs/2509.04908)
-[![GitHub](https://img.shields.io/badge/Code-GUI--G2-000000?style=for-the-badge&logo=github)](https://github.com/antgroup/SparkUI-Parser)
-
 
 </div>
 
