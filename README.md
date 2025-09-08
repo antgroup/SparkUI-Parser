@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/sparkui_logo.png" width="30" style="vertical-align: middle; margin-right: 5px;" />
+  <img src="./assets/sparkui_logo.png" width="30" style="vertical-align: middle; margin-right: 3px;" />
   SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing
 </h1>
 
