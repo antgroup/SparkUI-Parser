@@ -24,9 +24,31 @@
 # Overview
 
 * [News](#news)
+* [Motivation](#motivation)
+* [Highlights](#highlights)
 
 ---
 
 # 🎉 News
 
 [2025-9-5] **We relearse our paper: SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing. We plan to open source the training code and our proposed GUI parsing benchmark-ScreenParse with evaluation code soon.**
+
+---
+
+# Motivation
+
+<div align="center">
+  <img src="./assets/decoder.png" alt="Schematic diagram of discrete to continuous coordinate modeling" width="80%" />
+  <p><em>Comparison of the coordinate generation between prior methods (left) and ours (right).</em></p>
+</div>
+
+We utilize enhanced features instead of multiple discrete tokens to obtain continuous coordinate values, thereby improving the precision of grounding and speeding up the inference.
+
+---
+
+# ✨ Highlights
+
+* 💫 **Robust Grounding and Parsing**: We are the first to introduce an end-to-end MLLM for GUI perception, which simultaneously achieves robust grounding and parsing on user interfaces, providing a comprehensive perception of semantics and structures.
+* 🚏 **Route-then-predict Framework**: By processing semantics and coordinates of the element separately, our method improves precision in grounding by around 3% averagely and speeds up grounding and parsing by 5 times and 4 times in average.
+* 🌍 **Parsing Benchmark-ScreenParse**: a benchmark for GUI parsing, which provides an evaluation for the performance of models in both locating specific elements and perceiving the overall structure of user interfaces.
+* 👑 **Excellent Grounding and Parsing Performance** on various benchmarks.
