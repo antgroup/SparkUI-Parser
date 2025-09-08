@@ -8,7 +8,7 @@
 <p><em>The official repository of SparkUI-Parser, a novel end-to-end GUI grounding and parsing enhancement algorithm</em></p>
 
 [![Paper](https://img.shields.io/badge/Paper-TBA-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.04908)
-[![alphaXiv](https://img.shields.io/badge/alphaXiv-2507.15846-1f8ceb?style=for-the-badge)](https://www.alphaxiv.org/abs/2509.04908)
+[![alphaXiv](https://img.shields.io/badge/alphaXiv-2509.04908-1f8ceb?style=for-the-badge)](https://www.alphaxiv.org/abs/2509.04908)
 
 </div>
 
