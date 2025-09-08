@@ -26,6 +26,7 @@
 * [News](#news)
 * [Motivation](#motivation)
 * [Highlights](#highlights)
+* [Citation](#citation)
 
 ---
 
@@ -52,3 +53,22 @@ We utilize enhanced features instead of multiple discrete tokens to obtain conti
 * 🚏 **Route-then-predict Framework**: By processing semantics and coordinates of the element separately, our method improves precision in grounding by around 3% averagely and speeds up grounding and parsing by 5 times and 4 times in average.
 * 🌍 **Parsing Benchmark-ScreenParse**: a benchmark for GUI parsing, which provides an evaluation for the performance of models in both locating specific elements and perceiving the overall structure of user interfaces.
 * 👑 **Excellent Grounding and Parsing Performance** on various benchmarks.
+
+---
+
+# 📄 Citation
+
+If you use works related to **SparkUI-Parser**, please cite our work:
+
+```bibtex
+@misc{jing2025sparkuiparserenhancingguiperception,
+      title={SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing}, 
+      author={Hongyi Jing and Jiafu Chen and Chen Rao and Ziqiang Dang and Jiajie Teng and Tianyi Chu and Juncheng Mo and Shuo Fang and Huaizhong Lin and Rui Lv and Chenguang Ma and Lei Zhao},
+      year={2025},
+      eprint={2509.04908},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2509.04908}, 
+}
+```
+If you are interested in our method or it helps your research, please give us a star 🌟 on GitHub.
