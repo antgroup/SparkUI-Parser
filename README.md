@@ -8,7 +8,7 @@
 <p><em>The official repository of SparkUI-Parser, a novel end-to-end GUI grounding and parsing enhancement algorithm</em></p>
 
 [![Paper](https://img.shields.io/badge/Paper-2509.04908-CC0000?style=for-the-badge&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2509.04908)
-[![Huggingface Paper](https://img.shields.io/badge/PAPER-2509.04908-FFD700?logo=huggingface&logoColor=yellow)](https://huggingface.co/papers/2509.04908)
+[![Huggingface Paper](https://img.shields.io/badge/PAPER-2509.04908-FFD700?logo=huggingface&logoColor=yellow)](https://img.shields.io/badge/Paper-2509.04908-FFD700?style=for-the-badge&logo=huggingface&logoColor=yellow)
 [![alphaXiv](https://img.shields.io/badge/alphaXiv-2509.04908-1f8ceb?style=for-the-badge)](https://www.alphaxiv.org/abs/2509.04908)
 [![GitHub](https://img.shields.io/badge/CODE-SparkUI--Parser-000000?style=for-the-badge&logo=github)](https://github.com/antgroup/SparkUI-Parser)
 <!-- [![Huggingface](https://img.shields.io/badge/MODEL-SPARKUI--PARSER-1E90FF?logo=huggingface&logoColor=yellow)]() -->
