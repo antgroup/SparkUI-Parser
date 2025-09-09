@@ -34,7 +34,7 @@
 
 # 🎉 News
 
-[2025-9-5] **We relearse our paper: SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing. We plan to open source the training code and our proposed GUI parsing benchmark-ScreenParse with evaluation code soon.**
+[2025-9-5] **We release our paper: SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing. We plan to open source the training code and our proposed GUI parsing benchmark-ScreenParse with evaluation code soon.**
 
 ---
 
