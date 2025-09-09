@@ -9,7 +9,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-2509.04908-CC0000?style=for-the-badge&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2509.04908)
 [![alphaXiv](https://img.shields.io/badge/alphaXiv-2509.04908-1f8ceb?style=for-the-badge)](https://www.alphaxiv.org/abs/2509.04908)
-[![GitHub](https://img.shields.io/badge/CODE-SparkUI--Parser-000000?style=for-the-badge&logo=github)](https://github.com/antgroup/SparkUI-Parser)
+[![GitHub](https://img.shields.io/badge/CODE-SparkUI--Parser-000000?logo=github)](https://github.com/antgroup/SparkUI-Parser)
 </div>
 
 ---
