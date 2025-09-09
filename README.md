@@ -73,4 +73,5 @@ If you use works related to **SparkUI-Parser**, please cite our work:
 }
 ```
 If you are interested in our method or it helps your research, please give us a star 🌟 on GitHub.
-[arXiv: 2509.04908](arxiv.org/abs/2509.04908)
+
+[arXiv: 2509.04908](https://arxiv.org/abs/2509.04908)
